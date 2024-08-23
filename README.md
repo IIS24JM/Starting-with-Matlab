@@ -25,5 +25,3 @@ Tarea1.mlx: Practice basic arithmetic operations and variable assignments.
 Write Your Code: Add your code to the respective .m files provided in the repository. Be sure to follow any instructions or comments within the files.
 
 Test Your Code: Run your code in MATLAB to ensure it works correctly. Make sure to test all scenarios and edge cases as described in the task instructions.
-
-Submit Your Work: Once you’ve completed all tasks, commit your changes and push them to your GitHub repository:
